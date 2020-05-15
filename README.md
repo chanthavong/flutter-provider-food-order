@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[Image](https://raw.githubusercontent.com/chanthavong/flutter-provider-food-order/master/1.png)
+![ScreenShot](https://raw.githubusercontent.com/chanthavong/flutter-provider-food-order/master/1.png)
